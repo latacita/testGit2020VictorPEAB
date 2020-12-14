@@ -6,3 +6,22 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+1)
+2)
+3)
+4)
+5)
+6)
+7)
+8)
+9)
+10)	git checkout master 
+11)	git push origin DatosPersonales
+12)	Tendria que ser necesariamente 
+	recursiva
+13)	git add bitacora.txt
+	git commit -m "Paso 13."
+14)
+15)
+16)
+17)

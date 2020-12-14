@@ -1,16 +1,18 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Perez Aberasturi Victor              %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
-1)
-2)
-3)
+1)	git clone
+2)	git checkout -b DatosPersonales
+3)	
 4)
-5)
+5)	git add PlanVacunacion.txt	Debido a las prisas y los nervios del examen, se me olvido comentar
+	git add bitacora.txt		el bitacora y pase a otra rama, por tanto he vuelto he añadido las cosas
+	git commit -m "Paso 05"		que me faltaban y todo correcto.
 6)	git checkout master
 7)	git checkout -b Antecedentes
 8)

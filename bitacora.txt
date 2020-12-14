@@ -11,10 +11,12 @@
 3)
 4)
 5)
-6)
-7)
+6)	git checkout master
+7)	git checkout -b Antecedentes
 8)
-9)
+9)	git add antecedentes.txt
+	git add bitacora.txt
+	git commit -m "Paso 09"
 10)	git checkout master 
 11)	git push origin DatosPersonales
 12)	Tendria que ser necesariamente 

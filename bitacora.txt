@@ -25,7 +25,9 @@
 	recursiva
 13)	git add bitacora.txt
 	git commit -m "Paso 13."
-14)
-15)
-16)
-17)
+14)	git merge Antecedentes --no-ff		Apareceran conflictos en antecedentes
+15)	git merge DatosPersonales --no-ff	Apareceran conflictos en plan vacunacion
+16)	
+17)	git tag FusionTerminada
+18)	git push origin master		Apareceran conflictos en PlanVacunacion
+19)	git push origin master
